@@ -15,6 +15,11 @@ Applied AI Engineer and Data Scientist with experience building and deploying pr
 | **Embedded / Systems** | ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 | **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 
+### Featured Web Projects
+
+- [Kossof Salon Spa](https://www.kossofsalonspa.com/)
+- [Venegas Salon & Spa](https://venegassalonspa.org/)
+
 ### Featured Projects
 
 #### Multi-Agent Clinical Intelligence System
