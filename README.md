@@ -45,5 +45,13 @@ LLM Applications · RAG Systems · Text-to-SQL · Multi-Agent Architectures · S
 
 ---
 
-### Contact
-Email: sovailescu.sebastian@gmail.com
+### Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-sovailescu/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sovailescu.sebastian@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
