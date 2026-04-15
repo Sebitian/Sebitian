@@ -3,7 +3,7 @@
 Hi, I’m Sebastian.  
 Applied AI Engineer and Data Scientist with experience building and deploying production-grade AI systems in healthcare and enterprise environments. I specialize in multi-agent systems, retrieval-augmented generation (RAG), and LLM-powered applications, with systems currently supporting 500+ users. Focused on taking AI systems from prototype to production.
 
-## Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 |----------|------------|
