@@ -1,8 +1,8 @@
 ## Sebastian Sovailescu
 
 Hi, I’m Sebastian.  
-I build custom AI solutions for AbbVie (Text2SQL, RAG, autocomplete form chat, dashboards).
-I also make cool websites and gadgets. You can read more on my website : (https://www.sebastian-sovailescu.com/)
+I build AI solutions for AbbVie (Text2SQL, RAG, autocomplete form chat, dashboards).
+I also make cool websites for my personal use and for others. You can read more on my website : (https://www.sebastiansovailescu.com/)
 
 ### Client websites I built & actively maintain
 
